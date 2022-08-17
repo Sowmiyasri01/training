@@ -1,0 +1,5 @@
+let Set1=new Set([3,4,5])
+let Set2=new Set([6,5,3])
+let Set3=new Set([3,9,6])
+let Set4=new Set([...Set1,...Set2,...Set3])
+console.log(Set4)
