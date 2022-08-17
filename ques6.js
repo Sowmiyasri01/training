@@ -6,5 +6,5 @@ function titleCaseEdit(title) {
     }
     return title.join(' ');
   };
-  console.log(titleCaseEdit(title))
+  console.log(titleCaseEdit(title));
   
