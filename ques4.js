@@ -10,5 +10,5 @@ function length(array){
     }
     return length;
 };
-length(array1)
+length(array1);
 console.log(array2);
